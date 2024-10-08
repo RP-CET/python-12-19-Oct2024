@@ -2,6 +2,13 @@
 
 Course materials are contained in this repository
 
+
+## Scratch pad for the course:
+
+Instructor led code dissemination: <br>
+https://codeshare.io/PythonRP
+
+
 ## Other Learning Resources:
 Video: https://www.udemy.com/course/100-days-of-code/
 
